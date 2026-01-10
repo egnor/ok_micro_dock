@@ -523,15 +523,11 @@
       },
       {
         "netclass": "Power",
-        "pattern": "+5V"
+        "pattern": "VBUS"
       },
       {
         "netclass": "Power",
         "pattern": "GND"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "VCC"
       }
     ]
   },
