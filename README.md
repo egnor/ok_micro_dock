@@ -2,9 +2,7 @@
 
 <img align="right" width="300" alt="image" src="https://github.com/user-attachments/assets/c98b8e6e-953a-41f8-bec4-78f9ba202b05"/>
 
-This repository includes hardware designs and a software driver library for a "dock" baseboard for standard-format microcontroller boards. The dock adds a power supply, I/O screw terminals, and a tiny screen/button interface to support flexible wiring and quick controller swapping with clear status and configuration.
-
-There is currently one dock, for [Adafruit Feather](https://www.adafruit.com/category/943) microcontroller boards. More may come.
+This repository includes hardware designs and a software driver library for a "dock" baseboard for standard-format microcontroller boards ([Adafruit Feather](https://www.adafruit.com/category/943)). This dock adds a power supply, I/O screw terminals, and a tiny screen/button interface to the micro. This is for "prod-otyping" environments like escape rooms which benefit from flexible but robust wiring, status observability, and quick part swapping. Also included are some auxiliary carrier and utility boards.
 
 For simple screw terminal breakout, first consider these more professional offerings...
 - Adafruit: Terminal Block for [Feather](https://www.adafruit.com/product/2926), ScrewShield for [Uno](https://www.adafruit.com/product/196)
