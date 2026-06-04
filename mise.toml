@@ -2,7 +2,8 @@
 experimental = true
 
 [hooks]
-postinstall = [
-  "git lfs install --local",
-  "git lfs pull",
-]
+postinstall = ["git lfs install --local", "git lfs pull"]
+
+[tasks.kibot]
+run = "{{config_root}}/tools/kibot314.py"
+dir = "{{cwd}}"
