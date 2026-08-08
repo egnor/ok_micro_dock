@@ -532,6 +532,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
+        "tuning_profile": "",
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
@@ -550,13 +551,14 @@
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
+        "tuning_profile": "",
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
       }
     ],
     "meta": {
-      "version": 4
+      "version": 5
     },
     "net_colors": null,
     "netclass_assignments": null,
