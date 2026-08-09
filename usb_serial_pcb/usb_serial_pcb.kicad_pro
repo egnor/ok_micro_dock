@@ -465,8 +465,8 @@
       "endpoint_off_grid": "warning",
       "extra_units": "error",
       "field_name_whitespace": "warning",
-      "footprint_filter": "warning",
-      "footprint_link_issues": "ignore",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
@@ -717,7 +717,7 @@
         "uuid": "ce213efd-7e4a-48d0-aa4b-54c9d80e740e"
       }
     ],
-    "used_designators": "C8-9,R22-23,R32-33,#PWR40-44",
+    "used_designators": "C8-9,R22-23,R32-33,#PWR18,#PWR40-46",
     "variants": []
   },
   "sheets": [
