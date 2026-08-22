@@ -1,6 +1,6 @@
 # OK Micro Dock
 
-<img align="right" width="300" alt="image" src="https://github.com/user-attachments/assets/c98b8e6e-953a-41f8-bec4-78f9ba202b05"/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c98b8e6e-953a-41f8-bec4-78f9ba202b05"/>
 
 This repository includes hardware designs and a software driver library for a "dock" baseboard for standard-format microcontroller boards ([Adafruit Feather](https://www.adafruit.com/category/943)). This dock adds a power supply, I/O screw terminals, and a tiny screen/button interface to the micro. Also included are some auxiliary carrier and utility boards.
 
