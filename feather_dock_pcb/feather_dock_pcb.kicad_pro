@@ -76,12 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|138299000|116345000|034f385f-c297-4916-8208-ecb11c130434|b5b165e9-338f-4a5c-aae9-b4eda544ff61",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -727,7 +722,7 @@
         "uuid": "ce213efd-7e4a-48d0-aa4b-54c9d80e740e"
       }
     ],
-    "used_designators": "D1",
+    "used_designators": "#FLG6,#PWR12,#PWR16,#PWR29,D1",
     "variants": []
   },
   "sheets": [
