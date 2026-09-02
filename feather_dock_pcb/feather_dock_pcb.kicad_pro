@@ -76,7 +76,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|138553000|116345000|034f385f-c297-4916-8208-ecb11c130434|3ee0b582-d7ed-4d37-a587-4bd297d0bca5",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -722,7 +727,7 @@
         "uuid": "ce213efd-7e4a-48d0-aa4b-54c9d80e740e"
       }
     ],
-    "used_designators": "#FLG6,#PWR12,#PWR16,#PWR29,D1",
+    "used_designators": "R41,J6,J11,#FLG6,#PWR6-7,#PWR11-12,#PWR16,#PWR29,#PWR33-34,#PWR47,#PWR96,D1,D19",
     "variants": []
   },
   "sheets": [
