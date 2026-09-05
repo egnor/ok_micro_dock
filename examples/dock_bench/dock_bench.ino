@@ -5,7 +5,7 @@
 #include <ok_little_layout.h>
 #include <ok_micro_dock.h>
 
-static const OkLoggingContext OK_CONTEXT("display_test");
+static const OkLoggingContext OK_CONTEXT("dock_bench");
 extern char const* const ok_logging_config = "*=DETAIL";
 
 void loop() {
