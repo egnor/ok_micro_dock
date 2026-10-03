@@ -16,7 +16,7 @@ For simple screw terminal breakout, first consider these more professional offer
 - or just [solder screw terminals to the bottom of a board](https://www.adafruit.com/product/3173)!
 
 What this dock adds (besides a questionable supply chain) is
-- a switching power supply that takes 4.2V to 60V(!) (diode-mixed with USB input) to deliver 2A of 3.3V
+- a switching power supply that takes ~6V to 60V(!) to deliver 2A of 5V (joined to USB VBUS)
 - a tiny display (with an easy driver library), so you can see what your board is "thinking"
 - tiny buttons (with an easy driver library), so you can configure board settings as needed
 - two [QWIIC/Stemma QT](https://www.sparkfun.com/qwiic) connectors tied to SDA/SCL (with pullups)
